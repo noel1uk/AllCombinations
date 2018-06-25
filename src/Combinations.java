@@ -1,5 +1,8 @@
 public class Combinations {
     public static void main(String[] args) {
-        System.out.println("hey world");
+    }
+
+    public static Object returnCombinations(int num) {
+        return 1111;
     }
 }
